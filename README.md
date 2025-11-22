@@ -27,7 +27,7 @@ wget https://raw.githubusercontent.com/TiaraBasori/InstallTeleBox/refs/heads/mai
 ### 安装到Docker容器内
 Docker版本脚本作者: https://github.com/Seikolove
 ```bash
-https://raw.githubusercontent.com/TiaraBasori/InstallTeleBox/refs/heads/main/docker_telebox.sh
+wget https://raw.githubusercontent.com/TiaraBasori/InstallTeleBox/refs/heads/main/docker_telebox.sh -O docker_telebox.sh && chmod +x docker_telebox.sh && bash docker_telebox.sh
 ```
 
 ## 安装后管理
