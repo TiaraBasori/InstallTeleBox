@@ -24,6 +24,11 @@
 ```bash
 wget https://raw.githubusercontent.com/TiaraBasori/InstallTeleBox/refs/heads/main/telebox.sh -O telebox.sh && chmod +x telebox.sh && bash telebox.sh
 ```
+### Docker版本的一键安装命令
+(Docker版本脚本作者: https://github.com/Seikolove)
+```bash
+https://raw.githubusercontent.com/TiaraBasori/InstallTeleBox/refs/heads/main/docker_telebox.sh
+```
 
 ## 安装后管理
 
