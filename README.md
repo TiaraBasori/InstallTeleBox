@@ -20,12 +20,12 @@
 - **存储**: 至少 1GB 可用空间
 
 ## 一键安装命令
-
+### 安装到本地
 ```bash
 wget https://raw.githubusercontent.com/TiaraBasori/InstallTeleBox/refs/heads/main/telebox.sh -O telebox.sh && chmod +x telebox.sh && bash telebox.sh
 ```
-### Docker版本的一键安装命令
-(Docker版本脚本作者: https://github.com/Seikolove)
+### 安装到Docker容器内
+Docker版本脚本作者: https://github.com/Seikolove
 ```bash
 https://raw.githubusercontent.com/TiaraBasori/InstallTeleBox/refs/heads/main/docker_telebox.sh
 ```
