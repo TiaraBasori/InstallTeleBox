@@ -59,7 +59,7 @@ pm2 stop telebox
 ## 注意事项
 
 1. 安装前请确保服务器可以正常访问 GitHub 和 Telegram 服务
-2. 需要提前准备好 Telegram API ID 和 Hash
+2. 需要提前准备好 Telegram API ID 和 Hash , 申请地址：https://my.telegram.org/auth?to=apps
 3. 建议使用非 root 用户运行安装脚本
 4. 登录过程中请按照提示操作
 
